@@ -1,0 +1,11 @@
+tokyo
+istanbul
+london
+shanghai
+paris
+beijing
+dubai
+mumbai
+delhi
+jakarta
+seoul
